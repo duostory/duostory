@@ -12,6 +12,8 @@ story -l <learning language> -f <from language>
 story -l es -f en
 ```
 
+:exclamation: requires JWT (JSON Web Token) in `jwt.txt`
+
 ## dependency
 
 - ffmpeg
